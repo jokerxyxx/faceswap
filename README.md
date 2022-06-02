@@ -15,5 +15,5 @@ cropped VGGFace-224 dataset in [Google Drive](https://drive.google.com/file/d/19
 
 ### pretrained model
 arcface  
-download from [here](https://pan.baidu.com/s/1u4INoLrseV8lvQNQLl_ocg)password:ebg2
+download from [here](https://pan.baidu.com/s/1u4INoLrseV8lvQNQLl_ocg) password:ebg2  
 down it and put it to ./arcfece_model 
